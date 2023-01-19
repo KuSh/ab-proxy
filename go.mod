@@ -1,4 +1,4 @@
-module ab-proxy
+module github.com/KuSh/ab-proxy
 
 go 1.12
 
